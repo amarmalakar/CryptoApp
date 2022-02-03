@@ -16,7 +16,6 @@ const Navbar = () => {
     const navLinks = [
         {text: 'Coins', url: '/coins'},
         {text: 'WatchList', url: '/watchlist'},
-        {text: 'dolor', url: '/'},
     ]
 
     return(
