@@ -1,3 +1,6 @@
+# This Web App is live on heroku:
+This CryptoCurrency Web App is hosted on [cryptoo app](http://cryptoo-app.herokuapp.com/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
